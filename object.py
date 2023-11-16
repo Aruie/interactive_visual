@@ -1,7 +1,7 @@
 
-import pygame
 import math
 
+import pygame
 
 
 class Pos():

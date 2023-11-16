@@ -1,9 +1,10 @@
-import pygame
 import sys
 
-from actor_manager import ActorManager
+import pygame
 
+from actor_manager import ActorManager
 from object import Circle
+
 # Pygame 초기화
 
 pygame.init()
